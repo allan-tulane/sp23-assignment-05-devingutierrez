@@ -33,7 +33,6 @@ W(n) = O(logN)
 S(n) = O(logN)
 
 
-
 - **2a.**
 
 Using this example: We have the following denominations: {1, 3, 4} and  want to make change for $6. 
